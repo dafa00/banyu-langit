@@ -1,0 +1,7 @@
+---
+title: Terrestrial
+category: planet-type
+folder: terrestrial
+---
+
+A terrestrial planet, telluric planet, or rocky planet is a planet that is composed primarily of silicate rocks or metals. Within the Solar System, the terrestrial planets are the inner planets closest to the Sun, i.e. Mercury, Venus, Earth, and Mars.

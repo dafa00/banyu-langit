@@ -1,0 +1,12 @@
+- title: Dwarf
+  folder: dwarf
+  content: 'A dwarf planet is a planetary-mass object that is neither a true planet nor a natural satellite. That is, it is in direct orbit of a star, and is massive enough for its gravity to compress it into a hydrostatically equilibrious shape, but has not cleared the neighborhood of other material around its orbit.'
+
+- title: Terrestrial
+  folder: terrestrial
+  content: 'A terrestrial planet, telluric planet, or rocky planet is a planet that is composed primarily of silicate rocks or metals. Within the Solar System, the terrestrial planets are the inner planets closest to the Sun, i.e. Mercury, Venus, Earth, and Mars.'
+
+- title: Gas Giant
+  folder: gas-giant
+  content: 'A gas giant is a giant planet composed mainly of hydrogen and helium. Gas giants are sometimes known as failed stars because they contain the same basic elements as a star. Jupiter and Saturn are the gas giants of the Solar System.'
+
