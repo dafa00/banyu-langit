@@ -1,0 +1,10 @@
+<url>
+	<loc>https://dafa00.github.io{{site.baseurl}}{{include.entry.url}}</loc>
+	  {% if include.entry.changefreq %}
+		<changeref>{{include.entry.changefreq}}</changeref>
+	  {% endif %}
+
+	  {% if include.entry.priority %}
+		<priority>{{include.entry.priority}}</priority>
+	  {% endif %}
+</url>

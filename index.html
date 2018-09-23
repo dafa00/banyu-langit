@@ -1,6 +1,7 @@
 ---
 layout: default
 meta: There are a lot of planets
+priority: 1.0
 ---
 
 <h1>Planets of the Unvierse</h1>
@@ -22,7 +23,7 @@ meta: There are a lot of planets
 <ul>
 	{% for news in site.categories.recently-discovered %}
 	<li>
-		<a href="">{{news.title}}</a>
+		<a href="{{site.baseurl}}{{news.url}}">{{news.title}}</a>
 		<p>{{news.meta}}</p>
 	</li>
 	{% endfor %}
